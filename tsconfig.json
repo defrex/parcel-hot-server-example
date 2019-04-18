@@ -1,0 +1,11 @@
+{
+  "exclude": ["node_modules", "dist/*"],
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es2017",
+    "lib": ["dom", "es2017"],
+    "module": "commonjs",
+    "strict": true,
+    "rootDir": "./src"
+  }
+}
