@@ -11,7 +11,7 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "chokidar": "^2.1.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ora": "^3.4.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
